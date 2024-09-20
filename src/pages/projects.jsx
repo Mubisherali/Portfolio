@@ -74,7 +74,7 @@ const projects = () => {
   return (
     <>
           <Head>
-        <title>Mudassar | Project </title>
+        <title>Mubisher | Project </title>
         <meta name='description' content='projects page' />
     </Head>
     <TransitionEffect/>
@@ -84,10 +84,10 @@ const projects = () => {
             <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0 '>
                 <div className='col-span-12 '>
                     <FeaturedProjects
-                    title="Mudasssar Ali" 
+                    title="Mubisher Ali" 
                     img={project1}
                     summary="I am developing a portfolio website using Next.js 14 to showcase my frontend development expertise. The site features an interactive interface highlighting my latest projects, including dynamic visuals and responsive design. It emphasizes performance and user experience across all devices. This portfolio demonstrates my skills and creativity in frontend development."
-                    link="https://mudassar-rana.vercel.app"
+                    link="https://mubisher.vercel.app/"
                     github=""
                     type='Porfolio'
 
