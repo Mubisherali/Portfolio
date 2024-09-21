@@ -22,7 +22,7 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Mudassar | Contact </title>
+        <title>Mubisher | Contact </title>
         <meta name='description' content='Contact page' />
       </Head>
       <TransitionEffect/>
